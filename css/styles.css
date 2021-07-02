@@ -528,6 +528,22 @@ footer.footer .rights {
   footer.footer .container {
     grid-template-columns: repeat(1, 1fr);
   }
+  .news-title h1{
+    font-size: 1.6rem !important;
+  }
+  
+  .news-content{
+    padding: 2rem !important;
+     width: 80% !important;
+     font-size: 1.2rem !important;
+    
+    }
+    
+    .news-img{
+     
+      width: auto;
+      height: 300px;
+    }
 }
 
 /*viewpost less then or equal to 520 px */
@@ -548,4 +564,24 @@ footer.footer .rights {
   nav .toggle-collapse {
     width: 80% !important;
   }
+
+.news-title h1{
+  font-size: 1.3rem !important;
 }
+
+.news-content{
+padding: 2rem !important;
+ width: 70% !important;
+ font-size: 1rem !important;
+
+}
+
+.news-img{
+ 
+  width: auto;
+  height: 200px;
+}
+
+}
+
+
